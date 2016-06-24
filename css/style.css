@@ -29,6 +29,8 @@ body {
 	display: block;
 	padding: 12px 20px;
 	font-size: 11px;
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
 }
 .main-nav__item a:hover {
 	background-color: #333333;
